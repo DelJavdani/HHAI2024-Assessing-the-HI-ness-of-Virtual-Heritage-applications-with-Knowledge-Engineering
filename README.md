@@ -1,6 +1,6 @@
 # Assessing the HI-ness of Virtual Heritage applications with Knowledge Engineering
 
-This repository contains materials for the paper titled "Assessing the HI-ness of Virtual Heritage Applications with Knowledge Engineering," which has been accepted for presentation at The Third International Conference on Hybrid Human-Artificial Intelligence (HHAI 2024). It includes scenarios, task descriptions, and other relevant content.
+This repository contains materials for the paper titled "Assessing the HI-ness of Virtual Heritage Applications with Knowledge Engineering," which has been accepted for presentation at the Third International Conference on Hybrid Human-Artificial Intelligence (HHAI 2024). It includes scenarios, task descriptions, and other relevant content.
 
 
 ## Scenario repository
