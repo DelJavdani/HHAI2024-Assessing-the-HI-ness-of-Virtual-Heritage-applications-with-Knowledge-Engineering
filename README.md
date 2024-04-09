@@ -4,7 +4,7 @@ This repository contains materials for the paper titled "Assessing the HI-ness o
 
 
 ## Scenario repository
-For six VR exhibition scenarios, we provide task decomposition in markdown as well as a visual (flowchart) representation. The task decomposition consists of a *title*, a *description*, and a *visual task decomposition*. The scenarios currently in the repository are listed below:
+For six VR exhibition scenarios, we provide task decomposition in a visual (flowchart) representation. The task decomposition consists of a *title*, a *description*, and a *visual task decomposition*. The scenarios currently in the repository are listed below:
 
 - [S1](S1/) Multimodal Interactions.
 - [S2](S2/) Real-time Understanding of User States.
